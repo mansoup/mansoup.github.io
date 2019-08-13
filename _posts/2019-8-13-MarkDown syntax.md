@@ -16,7 +16,7 @@
 
 #### 4.列表 Lists
 
-> 使用 * 即可 是无序列表，1. 是有序列表 
+> 使用 * 即可 是无序列表，1. 是有序列表
 
 #### 5. 代码块 Code Block
 
@@ -40,7 +40,7 @@ public static void main(string[]){
 
 > this is soupman[^1]
 
-[^1]: soupman is my name 
+[^1]: soupman is my name
 
 #### 8. 横线 Horizontal Rules
 
@@ -64,9 +64,9 @@ public static void main(string[]){
 
 > ~~文字~~  ：在文字左右都添加~~
 
-#### 13.下划线 Underlines 
+#### 13.下划线 Underlines
 
-> 使用html的u标签    <u>文字</u> 
+> 使用html的u标签    <u>文字</u>
 
 #### 14.上标和下标 super-script and sub-script
 
@@ -76,7 +76,7 @@ public static void main(string[]){
 
 #### 15.高亮 Highlight
 
-> 在文字左右两边各添加两个 == 
+> 在文字左右两边各添加两个 ==
 >
 > ==soupman==
 
