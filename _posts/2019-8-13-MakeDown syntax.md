@@ -90,11 +90,11 @@ public static void main(string[]){
 
 在链接格式基础上在左边添加一个感叹号！
 
->![my HeadPic](C:\Users\Administrator\github\images\HeadPic.jpg)
+>![my HeadPic](/images/HeadPic.jpg)
 >
 >使用html方式
 >
-><img src="C:\Users\Administrator\github\images\HeadPic.jpg" width="20%">
+><img src="/images/HeadPic.jpg" width="20%">
 
 
 
