@@ -94,7 +94,7 @@ $ git clone https://github.com/tensorflow/tensorflow
 3. 修改下载依赖脚本，移除protobuf的下载
 
 	在`tensorflow/contrib/makefile/`目录下，`download_dependencies.sh`脚本用来下载相关依赖，打开此脚本文件，注释掉或者直接删掉`git clone https://github.com/google/protobuf.git ${DOWNLOADS_DIR}/protobuf`部分，目的是不让脚本去下载protobuf。
-
+	
 	上面三步准备好后，接下来就进入静态库编译了。
 
 ##### 第四步. 一键编译  
@@ -140,7 +140,7 @@ xcrun: error: unable to lookup item 'PlatformPath' in SDK 'iphoneos'
 ```
 error: Xcode 7.3.0 or later is required.
 + exit 1
-```/
+​```/
 
 解决：更新Xcode至最新版本，并且保证默认路径下是最新/版本。
 
@@ -159,3 +159,5 @@ error: Xcode 7.3.0 or later is required.
 <br>
 
 转载请注明：[潘柏信的博客](http://baixin) » [点击阅读原文](http://baixin.io/2016/07/iOSMachineLearning_TensorFlow/)        
+
+```
