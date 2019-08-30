@@ -30,7 +30,7 @@ public static void main(string[]){
 
 #### 6.表格 Tables
 
->使用  " | first con| second con|" 创建两列
+>使用 **| first con| second con|**创建两列
 
 | first con | second con |
 | :-------- | ---------- |
@@ -44,7 +44,7 @@ public static void main(string[]){
 
 #### 8. 横线 Horizontal Rules
 
-> **- - -**
+> **---**
 
 #### 9. 加粗 Strong
 
